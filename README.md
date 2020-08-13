@@ -19,3 +19,9 @@ $ ruby demo2.rb
 This should print out some usage stats after calling demo methods a number of times
 
 ---
+
+To see a demo showing doc generation, run:
+```
+$ ruby demo3.rb
+```
+This should print out some dummy docs for methods 'Demo#one' and 'Demo#two'
